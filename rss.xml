@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Coch Design]]></title>
         <description><![CDATA[Coch Design]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/coch-design/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 08 Mar 2016 16:50:10 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 08 Mar 2016 16:50:40 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/coch-design/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8d84af12-0715-40c1-8600-615f282336bf.jpg">]]></description>
+            <link>https://thegrid.ai/coch-design/1a94f15e-65a0-4c3c-9c0c-c7ad09a489ba/index.html</link>
+            <guid isPermaLink="false">1a94f15e-65a0-4c3c-9c0c-c7ad09a489ba</guid>
+            <pubDate>Tue, 08 Mar 2016 16:50:09 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Heyyyyy</p>]]></description>
-            <link>undefinedheyyyyy/index.html</link>
+            <link>https://thegrid.ai/coch-design/heyyyyy/index.html</link>
             <guid isPermaLink="false">9e6db8ad-c1ef-4bf3-89c3-8fcc50bde879</guid>
             <pubDate>Tue, 08 Mar 2016 16:48:42 GMT</pubDate>
         </item>
